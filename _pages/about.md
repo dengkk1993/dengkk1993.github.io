@@ -19,7 +19,7 @@ redirect_from:
 
 I am now working on manifold optimization and decentralized optimization. If you are seeking any form of academic cooperation, please feel free to email me at freedeng1208@gmail.com. 
 
-I graduated from Fujian Normal University with a bachelor’s degree and from the Research Center for Discrete Mathematics, Fuzhou University (福州大学离散数学研究中心 with a doctor’s degree, advised by <a href="http://www.pzhengxtu.com/" target="_blank">Zheng Peng (彭拯)</a>. I then pursued postdoctoral research at Peking University, Beijing International Center for Mathematical Research (BICMR，北京国际数学研究中心), under the supervision of <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/index.html" target="_blank">Zaiwen Wen (文再文)</a>.
+I graduated from Fujian Normal University with a bachelor’s degree and from Fuzhou University, the Research Center for Discrete Mathematics (离散数学研究中心) with a doctor’s degree, advised by <a href="http://www.pzhengxtu.com/" target="_blank">Zheng Peng (彭拯)</a>. I then pursued postdoctoral research at Peking University, Beijing International Center for Mathematical Research (BICMR，北京国际数学研究中心), under the supervision of <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/index.html" target="_blank">Zaiwen Wen (文再文)</a>.
 
 # 📖 Research experience & Education
 - *2023.04 - now*, Assistant Researcher, College of Science, National University of Defense Technology, Changsha.
