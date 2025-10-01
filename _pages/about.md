@@ -21,12 +21,17 @@ I am now working on manifold optimization and decentralized optimization. If you
 
 I graduated from Fujian Normal University with a bachelor’s degree and from the Research Center for Discrete Mathematics, Fuzhou University (福州大学离散数学研究中心 with a master’s degree, advised by <a href="http://www.pzhengxtu.com/" target="_blank">Zheng Peng (彭拯)</a>. I then pursued postdoctoral research at Peking University, Beijing International Center for Mathematical Research (BICMR，北京国际数学研究中心), under the supervision of <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/index.html" target="_blank">Zaiwen Wen (文再文)</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+{%My research interest includes manifold optimization and nonsmooth optimization. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+%}
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One papers are accepted by **SIAM Review**. 
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 2025**. 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Numerische Mathematik**.
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by **Mathematics of Operations Research**.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by **Journal of Scientific Computing**.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions on Automatic Control**.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **Journal of the Operations Research Society of China**. 
 
 # 📝 Publications 
 
