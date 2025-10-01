@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kangkang Deng"
+title                    : "Kangkang Deng's homepage"
 description              : "Focusing on manifold optimization and decentralized optimization"
 repository               : "dengkk1993/dengkk1993.github.io"
 google_scholar_stats_use_cdn : true
