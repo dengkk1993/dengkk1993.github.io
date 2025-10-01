@@ -24,7 +24,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from th
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One papers are accepted by **SIAM Review**. 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by **SIAM Review**. 
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 2025**. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Numerische Mathematik**.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by **Mathematics of Operations Research**.
@@ -40,12 +40,12 @@ I graduated from Fujian Normal University with a bachelor’s degree and from th
 - [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://arxiv.org/pdf/2304.08241), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025, accepted. 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Doctor, Research Center for Discrete Mathematics, Fuzhou University, Fuzhou. 
+- *2021.09* Undergraduate, School of Mathematics and Computer Science, Fujian Normal University, Fuzhou. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.06 - 2020.06*, Doctor, Research Center for Discrete Mathematics, Fuzhou University, Fuzhou.  
+- *2011.09 - 2015.06*, Undergraduate, School of Mathematics and Computer Science, Fujian Normal University, Fuzhou. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
