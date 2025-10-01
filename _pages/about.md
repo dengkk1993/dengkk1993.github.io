@@ -36,6 +36,15 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions on Automatic Control**.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **Journal of the Operations Research Society of China**. 
 
+
+# 📝 Preprints 
+- [Single-loop $\mathcal {O}(\epsilon^{-3}) $ stochastic smoothing algorithms for nonsmooth Riemannian optimization](https://arxiv.org/abs/2505.09485), Kangkang Deng, Zheng Peng, Weihe Wu, 2025.
+- [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, 2025.
+- [Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm](https://arxiv.org/abs/2504.08223), Kangkang Deng, Shuchang Zhang, Boyu Wang, Jiachen Jin, Juan Zhou, Hongxia Wang, 2025.
+- [Improving the communication in decentralized manifold optimization through single-step consensus and compression](https://arxiv.org/abs/2407.08904), Jiang Hu, Kangkang Deng, 2024.
+- [A cut-and-project perspective for linearized Bregman iterations](https://arxiv.org/abs/2404.09776), Yu-Hong Dai, Kangkang Deng, Hui Zhang, 2024.
+
+
 # 📝 Publications 
 
 
