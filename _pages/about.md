@@ -49,8 +49,8 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 
 
 
-- [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space](https://arxiv.org/pdf/2304.08241), Kangkang Deng, Jiang Hu,  **Numerische Mathematik**, 2025, accepted.
-- [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://arxiv.org/pdf/2304.08241), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025, accepted.
+- [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space](https://link.springer.com/article/10.1007/s00211-025-01497-0), Kangkang Deng, Jiang Hu,  **Numerische Mathematik**, 2025.
+- [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0498), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025.
 - [Inexact Riemannian Gradient Descent Method for Nonconvex Optimization with Strong Convergence](https://link.springer.com/article/10.1007/s10915-025-02913-1), Juan Zhou, Kangkang Deng, Hongxia Wang, Zheng Peng,  **Journal of Scientific Computing**, 2025.
 - [Decentralized Riemannian Natural Gradient Methods with Kronecker Product Approximations](https://link.springer.com/article/10.1007/s40305-025-00583-2), Jiang Hu, Kangkang Deng, Quanzheng Li,  **Journal of the Operations Research Society of China**, 2025.
 - [Decentralized Projected Riemannian Stochastic Recursive Momentum Method for Nonconvex Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/33218/35373), Kangkang Deng, Jiang Hu,  **AAAI 2025**, 2025.
