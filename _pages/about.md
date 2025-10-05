@@ -29,7 +29,8 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **SIAM Review**. 
-- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 2025**. 
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 2025**.
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Journal of Optimization Theory and Applications**.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Numerische Mathematik**.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by **Mathematics of Operations Research**.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by **Journal of Scientific Computing**.
@@ -48,7 +49,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 # 📝 Publications 
 
 
-
+- [Anderson acceleration of derivative-free projection methods for constrained monotone nonlinear equations](https://arxiv.org/abs/2403.14924), Jiachen Jin, Hongxia Wang, Kangkang Deng,  **Journal of Optimization Theory and Applications**, 2025.
 - [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space](https://link.springer.com/article/10.1007/s00211-025-01497-0), Kangkang Deng, Jiang Hu,  **Numerische Mathematik**, 2025.
 - [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0498), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025.
 - [Inexact Riemannian Gradient Descent Method for Nonconvex Optimization with Strong Convergence](https://link.springer.com/article/10.1007/s10915-025-02913-1), Juan Zhou, Kangkang Deng*, Hongxia Wang, Zheng Peng,  **Journal of Scientific Computing**, 2025.
