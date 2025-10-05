@@ -69,7 +69,8 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - [A Discriminative Projection and Representation-Based Classification Framework for Face Recognition](https://epubs.siam.org/doi/abs/10.1137/19M1253873), Kangkang Deng, Zheng Peng, Wenxing Zhu,  **SIAM Journal on Imaging Sciences**, 2020.
 
 # 🎖 Honors and Awards
-- *2025.08* 湖南省芙蓉计划青年托举. 
+- *2025.08* 湖南省芙蓉计划青年托举.
+- *2025.4* 湖南省运筹学会理事.
 
 
 
