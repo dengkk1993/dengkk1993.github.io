@@ -39,6 +39,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 
 
 # 📝 Preprints 
+- [The Augmented Lagrangian Methods: Overview and Recent Advances](https://arxiv.org/abs/2510.16827), Kangkang Deng, Rui Wang, Zhenyuan Zhu, Junyu Zhang, Zaiwen Wen, 2025.
 - [Single-loop $\mathcal {O}(\epsilon^{-3}) $ stochastic smoothing algorithms for nonsmooth Riemannian optimization](https://arxiv.org/abs/2505.09485), Kangkang Deng, Zheng Peng, Weihe Wu, 2025.
 - [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, 2025.
 - [Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm](https://arxiv.org/abs/2504.08223), Kangkang Deng, Shuchang Zhang, Boyu Wang, Jiachen Jin, Juan Zhou, Hongxia Wang, 2025.
