@@ -48,8 +48,8 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 
 
 # 📝 Publications 
-
-- [Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing](https://arxiv.org/abs/2510.18617), Kangkang Deng, Jiachen Jin, Jiang Hu, Hongxia Wang,  **NeurIPS 2025**, 2025.
+- [Rethinking Gradient Step Denoiser: Towards Truly Pseudo-Contractive Operator](https://openreview.net/pdf?id=J5XXBS6wPz), Shuchang Zhang, Yaoyun Zeng, Kangkang Deng, Hongxia Wang,  **NeurIPS 2025**, 2025.
+- [Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing](https://openreview.net/pdf/5c7956363acef5755a1562c7b6c43efbf7e80be3.pdf), Kangkang Deng, Jiachen Jin, Jiang Hu, Hongxia Wang,  **NeurIPS 2025**, 2025.
 - [Anderson acceleration of derivative-free projection methods for constrained monotone nonlinear equations](https://link.springer.com/article/10.1007/s10957-025-02841-y), Jiachen Jin, Hongxia Wang, Kangkang Deng,  **Journal of Optimization Theory and Applications**, 2025.
 - [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space](https://link.springer.com/article/10.1007/s00211-025-01497-0), Kangkang Deng, Jiang Hu,  **Numerische Mathematik**, 2025.
 - [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0498), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025.
