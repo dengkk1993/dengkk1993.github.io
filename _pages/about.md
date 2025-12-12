@@ -73,6 +73,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 # 🎖 Honors and Awards
 - *2025.08* 湖南省芙蓉计划青年托举.
 - *2025.4* 湖南省运筹学会理事.
+- *2025.11* 中国运筹学会数学与智能分会青年理事.
 
 
 
