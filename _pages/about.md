@@ -34,10 +34,10 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Journal of Optimization Theory and Applications**.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **Numerische Mathematik**.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by **Mathematics of Operations Research**.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by **Journal of Applied Analysis and Computation**.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by **Journal of Scientific Computing**.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions on Automatic Control**.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **Journal of the Operations Research Society of China**. 
-
 
 # 📝 Preprints 
 - [Single-loop $\mathcal {O}(\epsilon^{-3}) $ stochastic smoothing algorithms for nonsmooth Riemannian optimization](https://arxiv.org/abs/2505.09485), Kangkang Deng, Zheng Peng, Weihe Wu, 2025.
@@ -55,6 +55,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - [Anderson acceleration of derivative-free projection methods for constrained monotone nonlinear equations](https://link.springer.com/article/10.1007/s10957-025-02841-y), Jiachen Jin, Hongxia Wang, Kangkang Deng,  **Journal of Optimization Theory and Applications**, 2025.
 - [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space](https://link.springer.com/article/10.1007/s00211-025-01497-0), Kangkang Deng, Jiang Hu,  **Numerische Mathematik**, 2025.
 - [Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0498), Kangkang Deng, Jiang Hu, Jiayuan Wu, Zaiwen Wen,  **Mathematics of Operations Research**, 2025. <a href="https://github.com/KKDeng/ManIAL" target="_blank">Code</a>
+- [A Novel Riemannian Conjugate Gradient Method with Iteration Complexity Guarantees](https://www.jaac-online.com/article/doi/10.11948/20240564), Juan Zhou, Kangkang Deng, Hongxia Wang,  **Journal of Applied Analysis and Computation**, 2025.
 - [Inexact Riemannian Gradient Descent Method for Nonconvex Optimization with Strong Convergence](https://link.springer.com/article/10.1007/s10915-025-02913-1), Juan Zhou, Kangkang Deng*, Hongxia Wang, Zheng Peng,  **Journal of Scientific Computing**, 2025.
 - [Decentralized Riemannian Natural Gradient Methods with Kronecker Product Approximations](https://link.springer.com/article/10.1007/s40305-025-00583-2), Jiang Hu, Kangkang Deng*, Quanzheng Li,  **Journal of the Operations Research Society of China**, 2025.
 - [Decentralized Projected Riemannian Stochastic Recursive Momentum Method for Nonconvex Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/33218/35373), Kangkang Deng, Jiang Hu,  **AAAI 2025**, 2025.
