@@ -40,6 +40,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **Journal of the Operations Research Society of China**. 
 
 # 📝 Preprints 
+- [A Single-loop Stochastic Riemannian ADMM for Nonsmooth Optimization](https://arxiv.org/abs/2512.22750), Jiachen Jin, Kangkang Deng, Hongxia Wang, 2025.
 - [Single-loop $\mathcal {O}(\epsilon^{-3}) $ stochastic smoothing algorithms for nonsmooth Riemannian optimization](https://arxiv.org/abs/2505.09485), Kangkang Deng, Zheng Peng, Weihe Wu, 2025.
 - [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, 2025.
 - [Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm](https://arxiv.org/abs/2504.08223), Kangkang Deng, Shuchang Zhang, Boyu Wang, Jiachen Jin, Juan Zhou, Hongxia Wang, 2025.
