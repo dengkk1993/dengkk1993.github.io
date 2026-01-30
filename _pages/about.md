@@ -28,6 +28,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - *2011.09 - 2015.06*, Undergraduate, School of Mathematics and Computer Science, Fujian Normal University, Fuzhou. 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by **IMA Journal of Numerical Analysis**. 
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **Applied Numerical Mathematics**. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **SIAM Review**. 
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 2025**.
@@ -45,10 +46,10 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, 2025.
 - [Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm](https://arxiv.org/abs/2504.08223), Kangkang Deng, Shuchang Zhang, Boyu Wang, Jiachen Jin, Juan Zhou, Hongxia Wang, 2025.
 - [Improving the communication in decentralized manifold optimization through single-step consensus and compression](https://arxiv.org/abs/2407.08904), Jiang Hu, Kangkang Deng, 2024.
-- [A cut-and-project perspective for linearized Bregman iterations](https://arxiv.org/abs/2404.09776), Yu-Hong Dai, Kangkang Deng, Hui Zhang, 2024.
 
 
 # 📝 Publications 
+- [A cut-and-project perspective for linearized Bregman iterations](https://arxiv.org/abs/2404.09776), Yu-Hong Dai, Kangkang Deng, Hui Zhang, **IMA Journal of Numerical Analysis**, 2026.
 - [Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization](https://arxiv.org/pdf/2505.06921), Jiachen Jin, Kangkang Deng, Boyu Wang, Hongxia Wang,  **Applied Numerical Mathematics**, 2025.
 - [The Augmented Lagrangian Methods: Overview and Recent Advances](https://arxiv.org/abs/2510.16827), Kangkang Deng, Rui Wang, Zhenyuan Zhu, Junyu Zhang, Zaiwen Wen, **SIAM Review**, 2025.
 - [Rethinking Gradient Step Denoiser: Towards Truly Pseudo-Contractive Operator](https://openreview.net/pdf?id=J5XXBS6wPz), Shuchang Zhang, Yaoyun Zeng, Kangkang Deng, Hongxia Wang,  **NeurIPS 2025**, 2025.
