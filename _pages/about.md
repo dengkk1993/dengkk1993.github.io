@@ -28,6 +28,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 - *2011.09 - 2015.06*, Undergraduate, School of Mathematics and Computer Science, Fujian Normal University, Fuzhou. 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **Applied Mathematical Modelling**. 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by **IMA Journal of Numerical Analysis**. 
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **Applied Numerical Mathematics**. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **SIAM Review**. 
@@ -49,6 +50,7 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 
 
 # 📝 Publications 
+- [SAM-DNN: Bilevel Convergent Sequential Averaging Methods with Denoising Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0307904X26000788), Shuchang Zhang, Kangkang Deng, Hui Zhang, Hongxia Wang, **Applied Mathematical Modelling**, 2026.
 - [A cut-and-project perspective for linearized Bregman iterations](https://arxiv.org/abs/2404.09776), Yu-Hong Dai, Kangkang Deng, Hui Zhang, **IMA Journal of Numerical Analysis**, 2026.
 - [Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization](https://arxiv.org/pdf/2505.06921), Jiachen Jin, Kangkang Deng, Boyu Wang, Hongxia Wang,  **Applied Numerical Mathematics**, 2025.
 - [The Augmented Lagrangian Methods: Overview and Recent Advances](https://arxiv.org/abs/2510.16827), Kangkang Deng, Rui Wang, Zhenyuan Zhu, Junyu Zhang, Zaiwen Wen, **SIAM Review**, 2025.
