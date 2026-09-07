@@ -1,0 +1,14 @@
+{% if site.visitor_statistics.enabled and jekyll.environment == "production" %}
+<footer class="visitor-statistics" aria-label="Visitor statistics">
+  <span id="busuanzi_container_site_pv" style="display: none;">
+    <i class="fas fa-eye" aria-hidden="true"></i>
+    Total views: <span id="busuanzi_value_site_pv"></span>
+  </span>
+  <span id="busuanzi_container_site_uv" style="display: none;">
+    <i class="fas fa-users" aria-hidden="true"></i>
+    Visitors: <span id="busuanzi_value_site_uv"></span>
+    <small> &middot; <a href="https://busuanzi.ibruce.info/" rel="external">Busuanzi</a></small>
+  </span>
+</footer>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+{% endif %}
