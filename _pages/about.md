@@ -259,35 +259,38 @@ I received my bachelor's degree from Fujian Normal University and my Ph.D. from 
 
 # Publications
 
-<span class="section-lead">Selected links to papers and code are provided below. My name is highlighted for easier scanning.</span>
+<span class="section-lead">Selected links to papers and code are provided below. Publication years follow the journal/conference year (rather than the acceptance year) whenever a final publication year is available.</span>
+
+### Forthcoming
+
+- [**An efficient primal dual semismooth Newton method for semidefinite programming**](https://arxiv.org/abs/2504.14333)  
+  Zhanwang Deng, Jiang Hu, **Kangkang Deng**, Zaiwen Wen. *Mathematics of Operations Research*, accepted / forthcoming.
 
 ### 2026
 
-- [**An efficient primal dual semismooth Newton method for semidefinite programming**](https://arxiv.org/abs/2504.14333)  
-  Zhanwang Deng, Jiang Hu, **Kangkang Deng**, Zaiwen Wen. *Mathematics of Operations Research*, 2026.
 - [**SAM-DNN: Bilevel Convergent Sequential Averaging Methods with Denoising Neural Network**](https://www.sciencedirect.com/science/article/abs/pii/S0307904X26000788)  
   Shuchang Zhang, **Kangkang Deng**, Hui Zhang, Hongxia Wang. *Applied Mathematical Modelling*, 2026.
 - [**A cut-and-project perspective for linearized Bregman iterations**](https://arxiv.org/abs/2404.09776)  
   Yu-Hong Dai, **Kangkang Deng**, Hui Zhang. *IMA Journal of Numerical Analysis*, 2026.
+- [**The Augmented Lagrangian Methods: Overview and Recent Advances**](https://arxiv.org/abs/2510.16827)  
+  **Kangkang Deng**, Rui Wang, Zhenyuan Zhu, Junyu Zhang, Zaiwen Wen. *SIAM Review*, 2026.
+- [**Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization**](https://arxiv.org/pdf/2505.06921)  
+  Jiachen Jin, **Kangkang Deng**, Boyu Wang, Hongxia Wang. *Applied Numerical Mathematics*, 2026.
+- [**A Novel Riemannian Conjugate Gradient Method with Iteration Complexity Guarantees**](https://www.jaac-online.com/article/doi/10.11948/20240564)  
+  Juan Zhou, **Kangkang Deng**, Hongxia Wang, Zheng Peng. *Journal of Applied Analysis and Computation*, 2026.
+- [**Anderson acceleration of derivative-free projection methods for constrained monotone nonlinear equations**](https://link.springer.com/article/10.1007/s10957-025-02841-y)  
+  Jiachen Jin, Hongxia Wang, **Kangkang Deng**. *Journal of Optimization Theory and Applications*, 2026.
 
 ### 2025
 
-- [**Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization**](https://arxiv.org/pdf/2505.06921)  
-  Jiachen Jin, **Kangkang Deng**, Boyu Wang, Hongxia Wang. *Applied Numerical Mathematics*, 2025.
-- [**The Augmented Lagrangian Methods: Overview and Recent Advances**](https://arxiv.org/abs/2510.16827)  
-  **Kangkang Deng**, Rui Wang, Zhenyuan Zhu, Junyu Zhang, Zaiwen Wen. *SIAM Review*, 2025.
 - [**Rethinking Gradient Step Denoiser: Towards Truly Pseudo-Contractive Operator**](https://openreview.net/pdf?id=J5XXBS6wPz)  
   Shuchang Zhang, Yaoyun Zeng, **Kangkang Deng**, Hongxia Wang. *NeurIPS 2025*, 2025.
 - [**Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing**](https://openreview.net/pdf/5c7956363acef5755a1562c7b6c43efbf7e80be3.pdf)  
   **Kangkang Deng**, Jiachen Jin, Jiang Hu, Hongxia Wang. *NeurIPS 2025*, 2025. [Code](https://github.com/KKDeng/Adaptive-Riemannian-ADMM) <span class="pub-note">Code</span>
-- [**Anderson acceleration of derivative-free projection methods for constrained monotone nonlinear equations**](https://link.springer.com/article/10.1007/s10957-025-02841-y)  
-  Jiachen Jin, Hongxia Wang, **Kangkang Deng**. *Journal of Optimization Theory and Applications*, 2025.
 - [**Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space**](https://link.springer.com/article/10.1007/s00211-025-01497-0)  
   **Kangkang Deng**, Jiang Hu. *Numerische Mathematik*, 2025.
 - [**Oracle complexities of augmented Lagrangian methods for nonsmooth manifold optimization**](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0498)  
   **Kangkang Deng**, Jiang Hu, Jiayuan Wu, Zaiwen Wen. *Mathematics of Operations Research*, 2025. [Code](https://github.com/KKDeng/ManIAL) <span class="pub-note">Code</span>
-- [**A Novel Riemannian Conjugate Gradient Method with Iteration Complexity Guarantees**](https://www.jaac-online.com/article/doi/10.11948/20240564)  
-  Juan Zhou, **Kangkang Deng**, Hongxia Wang, Zheng Peng. *Journal of Applied Analysis and Computation*, 2025.
 - [**Inexact Riemannian Gradient Descent Method for Nonconvex Optimization with Strong Convergence**](https://link.springer.com/article/10.1007/s10915-025-02913-1)  
   Juan Zhou, **Kangkang Deng***, Hongxia Wang, Zheng Peng. *Journal of Scientific Computing*, 2025.
 - [**Decentralized Riemannian Natural Gradient Methods with Kronecker Product Approximations**](https://link.springer.com/article/10.1007/s40305-025-00583-2)  
@@ -300,24 +303,24 @@ I received my bachelor's degree from Fujian Normal University and my Ph.D. from 
   Zhanwang Deng, **Kangkang Deng**, Jiang Hu, Zaiwen Wen. *Journal of Scientific Computing*, 2025. [Code](https://github.com/optsuite/SSNCVX) <span class="pub-note">Code</span>
 - [**Achieving local consensus over compact submanifolds**](https://ieeexplore.ieee.org/abstract/document/10903988/)  
   Jiang Hu, Jiaojiao Zhang, **Kangkang Deng***. *IEEE Transactions on Automatic Control*, 2025.
+- [**Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds**](https://doc.global-sci.org/uploads/admin/article_pdf/20240923/2d8aa1569348748c89fc56f44cd8abd9.pdf)  
+  **Kangkang Deng**, Jiang Hu, Hongxia Wang. *Journal of Computational Mathematics*, 2025.
 
 ### 2024
 
 - [**New vector transport operators extending a Riemannian CG algorithm to generalized Stiefel manifold with low-rank applications**](https://www.sciencedirect.com/science/article/pii/S0377042724002747)  
   Xuejie Wang, **Kangkang Deng***, Zheng Peng, Chengcheng Yan. *Journal of Computational and Applied Mathematics*, 2024.
-- [**Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds**](https://doc.global-sci.org/uploads/admin/article_pdf/20240923/2d8aa1569348748c89fc56f44cd8abd9.pdf)  
-  **Kangkang Deng**, Jiang Hu, Hongxia Wang. *Journal of Computational Mathematics*, 2024.
 - [**Trace lasso regularization for adaptive sparse canonical correlation analysis via manifold optimization approach**](https://link.springer.com/article/10.1007/s40305-022-00449-x)  
   **Kangkang Deng**, Zheng Peng. *Journal of the Operations Research Society of China*, 2024. [Code](https://github.com/KKDeng/ASCCA) <span class="pub-note">Code</span>
 - [**A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity**](http://www.jmlr.org/papers/v25/23-0371.html)  
   Jiang Hu, **Kangkang Deng***, Jiayuan Wu, Quanzheng Li. *Journal of Machine Learning Research*, 2024. [Code](https://github.com/KKDeng/Prox-Regular-SSN) <span class="pub-note">Code</span>
+- [**High-performance placement engine for modern large-scale FPGAs with heterogeneity and clock constraints**](https://ieeexplore.ieee.org/abstract/document/10309844/)  
+  Ziran Zhu, Yangjie Mei, **Kangkang Deng**, Huan He, Jianli Chen, Jun Yang, Yao-Wen Chang. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2024.
 
 ### 2023
 
 - [**Riemannian Smoothing Gradient Type Algorithms for Nonsmooth Optimization Problem on Compact Riemannian Submanifold Embedded in Euclidean Space**](https://link.springer.com/article/10.1007/s00245-023-10061-x)  
   Zheng Peng, Weihe Wu, Jiang Hu, **Kangkang Deng***. *Applied Mathematics & Optimization*, 2023.
-- [**High-performance placement engine for modern large-scale FPGAs with heterogeneity and clock constraints**](https://ieeexplore.ieee.org/abstract/document/10309844/)  
-  Ziran Zhu, Yangjie Mei, **Kangkang Deng**, Huan He, Jianli Chen, Jun Yang, Yao-Wen Chang. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023.
 - [**An entropy-regularized ADMM for binary quadratic programming**](https://link.springer.com/article/10.1007/s10898-022-01144-0)  
   Haoming Liu, **Kangkang Deng**, Haoyang Liu, Zaiwen Wen. *Journal of Global Optimization*, 2023.
 - [**A decomposition augmented Lagrangian method for low-rank semidefinite programming**](https://epubs.siam.org/doi/abs/10.1137/22M1474539)  
