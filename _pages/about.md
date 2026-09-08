@@ -22,12 +22,14 @@ I am now working on manifold optimization and decentralized optimization. If you
 I graduated from Fujian Normal University with a bachelor’s degree and from Fuzhou University, the Research Center for Discrete Mathematics (离散数学研究中心) with a doctor’s degree, advised by <a href="http://www.pzhengxtu.com/" target="_blank">Zheng Peng (彭拯)</a>. I then pursued postdoctoral research at Peking University, Beijing International Center for Mathematical Research (BICMR，北京国际数学研究中心), under the supervision of <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/index.html" target="_blank">Zaiwen Wen (文再文)</a>.
 
 # 📖 Research experience & Education
-- *2023.04 - now*, Assistant Researcher, College of Science, National University of Defense Technology, Changsha.
+- *2026.04 - now*, Associate Professor, Assistant Researcher, College of Science, National University of Defense Technology, Changsha.
+- *2023.04 - 2026.04*, Assistant Researcher, College of Science, National University of Defense Technology, Changsha.
 - *2020.09 - 2023.04*, Postdoc, Beijing International Center for Mathematical Research, Peking University, Beijing.
 - *2015.06 - 2020.06*, Doctor, Research Center for Discrete Mathematics, Fuzhou University, Fuzhou.  
 - *2011.09 - 2015.06*, Undergraduate, School of Mathematics and Computer Science, Fujian Normal University, Fuzhou. 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by **Mathematics of Operations Research**. 
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **Applied Mathematical Modelling**. 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by **IMA Journal of Numerical Analysis**. 
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by **Applied Numerical Mathematics**. 
@@ -44,12 +46,12 @@ I graduated from Fujian Normal University with a bachelor’s degree and from Fu
 # 📝 Preprints 
 - [A Single-loop Stochastic Riemannian ADMM for Nonsmooth Optimization](https://arxiv.org/abs/2512.22750), Jiachen Jin, Kangkang Deng, Hongxia Wang, 2025.
 - [Single-loop $\mathcal {O}(\epsilon^{-3}) $ stochastic smoothing algorithms for nonsmooth Riemannian optimization](https://arxiv.org/abs/2505.09485), Kangkang Deng, Zheng Peng, Weihe Wu, 2025.
-- [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, 2025.
 - [Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm](https://arxiv.org/abs/2504.08223), Kangkang Deng, Shuchang Zhang, Boyu Wang, Jiachen Jin, Juan Zhou, Hongxia Wang, 2025.
 - [Improving the communication in decentralized manifold optimization through single-step consensus and compression](https://arxiv.org/abs/2407.08904), Jiang Hu, Kangkang Deng, 2024.
 
 
 # 📝 Publications 
+- [An efficient primal dual semismooth Newton method for semidefinite programming](https://arxiv.org/abs/2504.14333), Zhanwang Deng, Jiang Hu, Kangkang Deng, Zaiwen Wen, **Mathematics of Operations Research**, 2026.
 - [SAM-DNN: Bilevel Convergent Sequential Averaging Methods with Denoising Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0307904X26000788), Shuchang Zhang, Kangkang Deng, Hui Zhang, Hongxia Wang, **Applied Mathematical Modelling**, 2026.
 - [A cut-and-project perspective for linearized Bregman iterations](https://arxiv.org/abs/2404.09776), Yu-Hong Dai, Kangkang Deng, Hui Zhang, **IMA Journal of Numerical Analysis**, 2026.
 - [Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization](https://arxiv.org/pdf/2505.06921), Jiachen Jin, Kangkang Deng, Boyu Wang, Hongxia Wang,  **Applied Numerical Mathematics**, 2025.
